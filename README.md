@@ -16,7 +16,3 @@
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sam0560&show_icons=true&locale=en&layout=compact" alt="sam0560" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sam0560&show_icons=true&locale=en" alt="sam0560" /></p>
 </div>
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sam0560&theme=default&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=sam0560&theme=default&hide_border=false)
