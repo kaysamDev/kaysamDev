@@ -1,8 +1,8 @@
 ![profileImage](https://github.com/sam0560/sam0560/assets/64938042/d7b9c766-fc01-4269-abbe-285dc0025f2f)
 
 
-- 🔭 I’m currently working on Avatar Sdk website
-- 🌱 I’m currently learning Node js while I master React js
+- 🔭 I’m currently working on Real Estate Advisery Website
+- 🌱 I’m currently learning Node js while I master React js || Nextjs13
 - 👯 I’m looking to collaborate on any Frontend development projects
 - 💬 Ask me about how my journey has been so far
 - 📫 How to reach me: samuelmensqh@gmail.com
