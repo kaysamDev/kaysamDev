@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on top 1% Frontend projects in the world.
-- 🌱 I’m build alot with Reactjs, Nextjs and Nodejs
+- 🌱 I build alot with Reactjs, Nextjs and Nodejs
 - 👯 I’m looking to working on your Website development projects
 - 💬 Ask me about how my journey has been so far
 - ⚡ Fun facts: I code with background music sometimes
