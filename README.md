@@ -1,7 +1,7 @@
 ![profileImage](https://github.com/sam0560/sam0560/assets/64938042/d7b9c766-fc01-4269-abbe-285dc0025f2f)
 
 
-- 🔭 I’m currently working on top 1% Frontend projects in the world.
+- 🔭 I’m currently engineering on top 1% Frontend projects in the entire world.
 - 🌱 I build alot with Reactjs, Nextjs and Nodejs
 - 👯 I’m looking to working on your Website development projects
 - 💬 Ask me about how my journey has been so far
